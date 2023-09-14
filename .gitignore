@@ -1,0 +1,27 @@
+.idea
+cmake-build-*
+venv
+.vscode
+build
+build_docker
+*.onnx
+onnxruntime_profile_*json
+tmp
+build2
+*.pyc
+Testing/*
+*.pyi
+*qps_*.txt
+*.gperf
+*.py_profile
+dist
+build_docker
+
+# model file
+models
+*.npz
+
+# tags
+GPATH
+GRTAGS
+GTAGS

@@ -1,0 +1,13 @@
+third_party
+build
+.vscode
+*.sh
+*.out
+*.log
+*.conf
+
+*.jpg
+
+GPATH
+GRTAGS
+GTAGS

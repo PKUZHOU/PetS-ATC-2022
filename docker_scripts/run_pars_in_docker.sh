@@ -1,0 +1,1 @@
+nvidia-docker run --gpus 1  -it  --rm   -v $PWD:/workspace -v /etc/passwd:/etc/passwd --name=tt_baseline pkuzhou/pars_gpu_dev:latest sh -c "cd /workspace/research && bash download_bert.sh && bash eval_throughput_pars.sh"

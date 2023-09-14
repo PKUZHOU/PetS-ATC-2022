@@ -1,0 +1,1056 @@
+0 1 1
+compute_qkv_shadow, 31.884 ms, 3.67099 % 
+1 1 1
+compute_qkv_shadow, 30.2879 ms, 3.5834 % 
+2 1 1
+compute_qkv_shadow, 67.4013 ms, 4.3576 % 
+3 1 1
+compute_qkv_shadow, 42.4714 ms, 3.50479 % 
+0 1 2
+compute_qkv_shadow, 34.6601 ms, 3.90452 % 
+1 1 2
+compute_qkv_shadow, 30.6241 ms, 3.51742 % 
+2 1 2
+compute_qkv_shadow, 69.45 ms, 4.42294 % 
+3 1 2
+compute_qkv_shadow, 42.6531 ms, 3.44092 % 
+0 1 4
+compute_qkv_shadow, 36.8528 ms, 4.21383 % 
+1 1 4
+compute_qkv_shadow, 36.9889 ms, 4.01602 % 
+2 1 4
+compute_qkv_shadow, 66.5276 ms, 4.22711 % 
+3 1 4
+compute_qkv_shadow, 41.9763 ms, 3.28637 % 
+0 1 6
+compute_qkv_shadow, 34.2035 ms, 3.87132 % 
+1 1 6
+compute_qkv_shadow, 30.8889 ms, 3.46826 % 
+2 1 6
+compute_qkv_shadow, 68.471 ms, 4.3298 % 
+3 1 6
+compute_qkv_shadow, 43.5673 ms, 3.3628 % 
+0 1 8
+compute_qkv_shadow, 37.8769 ms, 4.26025 % 
+1 1 8
+compute_qkv_shadow, 35.6015 ms, 3.95263 % 
+2 1 8
+compute_qkv_shadow, 67.2308 ms, 4.22136 % 
+3 1 8
+compute_qkv_shadow, 39.3963 ms, 3.17074 % 
+0 1 10
+compute_qkv_shadow, 34.0845 ms, 3.81623 % 
+1 1 10
+compute_qkv_shadow, 30.3801 ms, 3.41119 % 
+2 1 10
+compute_qkv_shadow, 67.7988 ms, 4.21785 % 
+3 1 10
+compute_qkv_shadow, 38.8395 ms, 3.15995 % 
+0 1 12
+compute_qkv_shadow, 37.273 ms, 4.08761 % 
+1 1 12
+compute_qkv_shadow, 31.5282 ms, 3.48976 % 
+2 1 12
+compute_qkv_shadow, 66.877 ms, 4.24563 % 
+3 1 12
+compute_qkv_shadow, 41.7772 ms, 3.33753 % 
+0 1 16
+compute_qkv_shadow, 37.6526 ms, 4.05309 % 
+1 1 16
+compute_qkv_shadow, 33.4211 ms, 3.65678 % 
+2 1 16
+compute_qkv_shadow, 69.4929 ms, 4.2088 % 
+3 1 16
+compute_qkv_shadow, 40.8897 ms, 3.18588 % 
+0 1 20
+compute_qkv_shadow, 36.9097 ms, 3.81241 % 
+1 1 20
+compute_qkv_shadow, 31.2035 ms, 3.44388 % 
+2 1 20
+compute_qkv_shadow, 67.4047 ms, 4.05192 % 
+3 1 20
+compute_qkv_shadow, 37.7244 ms, 2.96101 % 
+0 1 24
+compute_qkv_shadow, 34.4015 ms, 3.75871 % 
+1 1 24
+compute_qkv_shadow, 31.5467 ms, 3.40231 % 
+2 1 24
+compute_qkv_shadow, 68.9414 ms, 3.97291 % 
+3 1 24
+compute_qkv_shadow, 38.6589 ms, 2.98982 % 
+0 1 28
+compute_qkv_shadow, 36.4393 ms, 3.87287 % 
+1 1 28
+compute_qkv_shadow, 30.8964 ms, 3.42601 % 
+2 1 28
+compute_qkv_shadow, 69.6977 ms, 3.99567 % 
+3 1 28
+compute_qkv_shadow, 41.0385 ms, 3.0489 % 
+0 1 32
+compute_qkv_shadow, 38.277 ms, 4.00727 % 
+1 1 32
+compute_qkv_shadow, 32.906 ms, 3.52196 % 
+2 1 32
+compute_qkv_shadow, 73.4693 ms, 4.06761 % 
+3 1 32
+compute_qkv_shadow, 39.0387 ms, 2.9872 % 
+0 1 36
+compute_qkv_shadow, 33.2371 ms, 3.50059 % 
+1 1 36
+compute_qkv_shadow, 32.7845 ms, 3.33634 % 
+2 1 36
+compute_qkv_shadow, 70.1249 ms, 3.84129 % 
+3 1 36
+compute_qkv_shadow, 39.1287 ms, 2.87902 % 
+0 1 40
+compute_qkv_shadow, 33.97 ms, 3.46732 % 
+1 1 40
+compute_qkv_shadow, 32.6745 ms, 3.37164 % 
+2 1 40
+compute_qkv_shadow, 67.5964 ms, 3.78717 % 
+3 1 40
+compute_qkv_shadow, 39.5104 ms, 2.82412 % 
+0 1 48
+compute_qkv_shadow, 34.8821 ms, 3.5368 % 
+1 1 48
+compute_qkv_shadow, 34.4603 ms, 3.47083 % 
+2 1 48
+compute_qkv_shadow, 72.2194 ms, 3.89726 % 
+3 1 48
+compute_qkv_shadow, 39.4514 ms, 2.83682 % 
+0 1 56
+compute_qkv_shadow, 37.2308 ms, 3.71571 % 
+1 1 56
+compute_qkv_shadow, 35.3713 ms, 3.45743 % 
+2 1 56
+compute_qkv_shadow, 69.0972 ms, 3.92755 % 
+3 1 56
+compute_qkv_shadow, 37.3319 ms, 2.92289 % 
+0 1 64
+compute_qkv_shadow, 35.8077 ms, 3.54704 % 
+1 1 64
+compute_qkv_shadow, 35.5161 ms, 3.34881 % 
+2 1 64
+compute_qkv_shadow, 72.6715 ms, 4.01535 % 
+3 1 64
+compute_qkv_shadow, 41.2067 ms, 3.02897 % 
+0 1 72
+compute_qkv_shadow, 37.2366 ms, 3.40288 % 
+1 1 72
+compute_qkv_shadow, 35.8225 ms, 3.25183 % 
+2 1 72
+compute_qkv_shadow, 74.7087 ms, 3.86235 % 
+3 1 72
+compute_qkv_shadow, 39.487 ms, 2.82009 % 
+0 1 80
+compute_qkv_shadow, 37.8293 ms, 3.46461 % 
+1 1 80
+compute_qkv_shadow, 37.0042 ms, 3.35942 % 
+2 1 80
+compute_qkv_shadow, 73.1796 ms, 3.83744 % 
+3 1 80
+compute_qkv_shadow, 42.3052 ms, 2.80551 % 
+0 1 88
+compute_qkv_shadow, 38.2142 ms, 3.51887 % 
+1 1 88
+compute_qkv_shadow, 37.7225 ms, 3.37628 % 
+2 1 88
+compute_qkv_shadow, 73.6392 ms, 3.72634 % 
+3 1 88
+compute_qkv_shadow, 39.2586 ms, 2.79467 % 
+0 1 96
+compute_qkv_shadow, 38.8013 ms, 3.58067 % 
+1 1 96
+compute_qkv_shadow, 40.1105 ms, 3.53109 % 
+2 1 96
+compute_qkv_shadow, 75.9591 ms, 3.80116 % 
+3 1 96
+compute_qkv_shadow, 40.4643 ms, 2.77966 % 
+0 1 128
+compute_qkv_shadow, 44.5745 ms, 3.67469 % 
+1 1 128
+compute_qkv_shadow, 48.7312 ms, 3.6703 % 
+2 1 128
+compute_qkv_shadow, 75.367 ms, 3.6204 % 
+3 1 128
+compute_qkv_shadow, 40.8441 ms, 2.63456 % 
+0 2 1
+compute_qkv_shadow, 33.8545 ms, 3.90332 % 
+1 2 1
+compute_qkv_shadow, 30.8561 ms, 3.40378 % 
+2 2 1
+compute_qkv_shadow, 67.1509 ms, 4.1429 % 
+3 2 1
+compute_qkv_shadow, 42.244 ms, 3.31701 % 
+0 2 2
+compute_qkv_shadow, 35.4775 ms, 4.06011 % 
+1 2 2
+compute_qkv_shadow, 33.368 ms, 3.84354 % 
+2 2 2
+compute_qkv_shadow, 70.2479 ms, 4.30767 % 
+3 2 2
+compute_qkv_shadow, 39.8269 ms, 3.25157 % 
+0 2 4
+compute_qkv_shadow, 37.7134 ms, 4.18292 % 
+1 2 4
+compute_qkv_shadow, 33.4813 ms, 3.85889 % 
+2 2 4
+compute_qkv_shadow, 65.5775 ms, 4.26586 % 
+3 2 4
+compute_qkv_shadow, 40.334 ms, 3.35137 % 
+0 2 6
+compute_qkv_shadow, 35.1867 ms, 4.02359 % 
+1 2 6
+compute_qkv_shadow, 32.0907 ms, 3.53359 % 
+2 2 6
+compute_qkv_shadow, 70.5691 ms, 4.38983 % 
+3 2 6
+compute_qkv_shadow, 41.7324 ms, 3.32541 % 
+0 2 8
+compute_qkv_shadow, 39.0234 ms, 4.26408 % 
+1 2 8
+compute_qkv_shadow, 34.7479 ms, 3.80066 % 
+2 2 8
+compute_qkv_shadow, 68.5004 ms, 4.19457 % 
+3 2 8
+compute_qkv_shadow, 43.6003 ms, 3.28878 % 
+0 2 10
+compute_qkv_shadow, 34.0584 ms, 3.81967 % 
+1 2 10
+compute_qkv_shadow, 30.932 ms, 3.5472 % 
+2 2 10
+compute_qkv_shadow, 65.0465 ms, 4.14621 % 
+3 2 10
+compute_qkv_shadow, 39.8036 ms, 3.26671 % 
+0 2 12
+compute_qkv_shadow, 36.0174 ms, 3.91597 % 
+1 2 12
+compute_qkv_shadow, 33.4193 ms, 3.52796 % 
+2 2 12
+compute_qkv_shadow, 68.1676 ms, 4.2379 % 
+3 2 12
+compute_qkv_shadow, 39.7843 ms, 3.2244 % 
+0 2 16
+compute_qkv_shadow, 37.8216 ms, 4.12782 % 
+1 2 16
+compute_qkv_shadow, 33.0901 ms, 3.54178 % 
+2 2 16
+compute_qkv_shadow, 67.0596 ms, 4.16711 % 
+3 2 16
+compute_qkv_shadow, 36.9135 ms, 3.08824 % 
+0 2 20
+compute_qkv_shadow, 35.4571 ms, 3.48632 % 
+1 2 20
+compute_qkv_shadow, 32.8157 ms, 3.43496 % 
+2 2 20
+compute_qkv_shadow, 68.7677 ms, 3.96947 % 
+3 2 20
+compute_qkv_shadow, 41.2282 ms, 3.09518 % 
+0 2 24
+compute_qkv_shadow, 36.6734 ms, 3.58109 % 
+1 2 24
+compute_qkv_shadow, 34.1626 ms, 3.49876 % 
+2 2 24
+compute_qkv_shadow, 72.2202 ms, 4.04234 % 
+3 2 24
+compute_qkv_shadow, 38.786 ms, 2.82952 % 
+0 2 28
+compute_qkv_shadow, 35.8012 ms, 3.59561 % 
+1 2 28
+compute_qkv_shadow, 34.1779 ms, 3.48079 % 
+2 2 28
+compute_qkv_shadow, 71.9889 ms, 3.89683 % 
+3 2 28
+compute_qkv_shadow, 38.1933 ms, 2.84433 % 
+0 2 32
+compute_qkv_shadow, 35.5612 ms, 3.44437 % 
+1 2 32
+compute_qkv_shadow, 35.4237 ms, 3.37056 % 
+2 2 32
+compute_qkv_shadow, 75.5875 ms, 3.87892 % 
+3 2 32
+compute_qkv_shadow, 39.4482 ms, 2.85694 % 
+0 2 36
+compute_qkv_shadow, 35.2191 ms, 3.35056 % 
+1 2 36
+compute_qkv_shadow, 37.3052 ms, 3.32461 % 
+2 2 36
+compute_qkv_shadow, 75.5373 ms, 3.84988 % 
+3 2 36
+compute_qkv_shadow, 41.796 ms, 2.9968 % 
+0 2 40
+compute_qkv_shadow, 35.6849 ms, 3.37764 % 
+1 2 40
+compute_qkv_shadow, 37.2137 ms, 3.34134 % 
+2 2 40
+compute_qkv_shadow, 73.8033 ms, 3.90289 % 
+3 2 40
+compute_qkv_shadow, 39.7812 ms, 2.82777 % 
+0 2 48
+compute_qkv_shadow, 39.2819 ms, 3.6262 % 
+1 2 48
+compute_qkv_shadow, 40.892 ms, 3.54947 % 
+2 2 48
+compute_qkv_shadow, 73.6772 ms, 3.8823 % 
+3 2 48
+compute_qkv_shadow, 41.2463 ms, 2.82468 % 
+0 2 56
+compute_qkv_shadow, 42.4155 ms, 3.54799 % 
+1 2 56
+compute_qkv_shadow, 43.5395 ms, 3.41497 % 
+2 2 56
+compute_qkv_shadow, 78.0744 ms, 3.69794 % 
+3 2 56
+compute_qkv_shadow, 42.9954 ms, 2.71383 % 
+0 2 64
+compute_qkv_shadow, 45.044 ms, 3.72456 % 
+1 2 64
+compute_qkv_shadow, 48.1147 ms, 3.66602 % 
+2 2 64
+compute_qkv_shadow, 80.3124 ms, 3.70114 % 
+3 2 64
+compute_qkv_shadow, 39.5677 ms, 2.61829 % 
+0 2 72
+compute_qkv_shadow, 49.3358 ms, 3.68983 % 
+1 2 72
+compute_qkv_shadow, 51.9577 ms, 3.46057 % 
+2 2 72
+compute_qkv_shadow, 78.7116 ms, 3.34959 % 
+3 2 72
+compute_qkv_shadow, 40.4532 ms, 2.35441 % 
+0 2 80
+compute_qkv_shadow, 54.213 ms, 3.91849 % 
+1 2 80
+compute_qkv_shadow, 54.1399 ms, 3.62613 % 
+2 2 80
+compute_qkv_shadow, 81.5919 ms, 3.39126 % 
+3 2 80
+compute_qkv_shadow, 38.8473 ms, 2.26748 % 
+0 2 88
+compute_qkv_shadow, 56.6686 ms, 4.03385 % 
+1 2 88
+compute_qkv_shadow, 57.4956 ms, 3.73699 % 
+2 2 88
+compute_qkv_shadow, 83.7149 ms, 3.4117 % 
+3 2 88
+compute_qkv_shadow, 41.4824 ms, 2.35789 % 
+0 2 96
+compute_qkv_shadow, 60.2979 ms, 4.24467 % 
+1 2 96
+compute_qkv_shadow, 61.8452 ms, 3.90434 % 
+2 2 96
+compute_qkv_shadow, 82.7902 ms, 3.39755 % 
+3 2 96
+compute_qkv_shadow, 40.9681 ms, 2.29541 % 
+0 2 128
+compute_qkv_shadow, 73.7915 ms, 4.51071 % 
+1 2 128
+compute_qkv_shadow, 73.1802 ms, 3.99631 % 
+2 2 128
+compute_qkv_shadow, 88.5574 ms, 3.2827 % 
+3 2 128
+compute_qkv_shadow, 41.1868 ms, 2.15844 % 
+0 4 1
+compute_qkv_shadow, 36.8923 ms, 4.18798 % 
+1 4 1
+compute_qkv_shadow, 34.8196 ms, 3.89787 % 
+2 4 1
+compute_qkv_shadow, 67.3686 ms, 4.261 % 
+3 4 1
+compute_qkv_shadow, 40.4001 ms, 3.29485 % 
+0 4 2
+compute_qkv_shadow, 36.1385 ms, 4.20119 % 
+1 4 2
+compute_qkv_shadow, 34.1068 ms, 3.87572 % 
+2 4 2
+compute_qkv_shadow, 65.9214 ms, 4.27447 % 
+3 4 2
+compute_qkv_shadow, 40.0735 ms, 3.26628 % 
+0 4 4
+compute_qkv_shadow, 38.4588 ms, 4.01301 % 
+1 4 4
+compute_qkv_shadow, 35.74 ms, 3.88318 % 
+2 4 4
+compute_qkv_shadow, 67.1215 ms, 4.21655 % 
+3 4 4
+compute_qkv_shadow, 40.884 ms, 3.19923 % 
+0 4 6
+compute_qkv_shadow, 37.2716 ms, 4.04801 % 
+1 4 6
+compute_qkv_shadow, 30.56 ms, 3.50405 % 
+2 4 6
+compute_qkv_shadow, 67.1332 ms, 4.23479 % 
+3 4 6
+compute_qkv_shadow, 38.0708 ms, 3.04548 % 
+0 4 8
+compute_qkv_shadow, 37.9253 ms, 4.08445 % 
+1 4 8
+compute_qkv_shadow, 31.9905 ms, 3.56351 % 
+2 4 8
+compute_qkv_shadow, 70.6737 ms, 4.20547 % 
+3 4 8
+compute_qkv_shadow, 39.4173 ms, 3.11618 % 
+0 4 10
+compute_qkv_shadow, 34.5433 ms, 3.61457 % 
+1 4 10
+compute_qkv_shadow, 33.9129 ms, 3.52963 % 
+2 4 10
+compute_qkv_shadow, 71.826 ms, 3.97164 % 
+3 4 10
+compute_qkv_shadow, 37.0788 ms, 2.84586 % 
+0 4 12
+compute_qkv_shadow, 34.8546 ms, 3.66421 % 
+1 4 12
+compute_qkv_shadow, 34.5856 ms, 3.59629 % 
+2 4 12
+compute_qkv_shadow, 70.7597 ms, 4.00978 % 
+3 4 12
+compute_qkv_shadow, 37.8708 ms, 2.88213 % 
+0 4 16
+compute_qkv_shadow, 37.3084 ms, 3.56411 % 
+1 4 16
+compute_qkv_shadow, 34.6812 ms, 3.41454 % 
+2 4 16
+compute_qkv_shadow, 73.605 ms, 4.10815 % 
+3 4 16
+compute_qkv_shadow, 40.3259 ms, 3.00515 % 
+0 4 20
+compute_qkv_shadow, 36.5931 ms, 3.43215 % 
+1 4 20
+compute_qkv_shadow, 37.5561 ms, 3.32792 % 
+2 4 20
+compute_qkv_shadow, 75.5129 ms, 3.89658 % 
+3 4 20
+compute_qkv_shadow, 40.5353 ms, 2.86506 % 
+0 4 24
+compute_qkv_shadow, 39.2666 ms, 3.60886 % 
+1 4 24
+compute_qkv_shadow, 40.9105 ms, 3.60954 % 
+2 4 24
+compute_qkv_shadow, 75.1586 ms, 3.92043 % 
+3 4 24
+compute_qkv_shadow, 41.2479 ms, 2.89697 % 
+0 4 28
+compute_qkv_shadow, 42.0583 ms, 3.57443 % 
+1 4 28
+compute_qkv_shadow, 44.1327 ms, 3.50839 % 
+2 4 28
+compute_qkv_shadow, 80.0956 ms, 3.79477 % 
+3 4 28
+compute_qkv_shadow, 40.3544 ms, 2.62619 % 
+0 4 32
+compute_qkv_shadow, 45.2517 ms, 3.76954 % 
+1 4 32
+compute_qkv_shadow, 47.0993 ms, 3.60106 % 
+2 4 32
+compute_qkv_shadow, 78.0685 ms, 3.67773 % 
+3 4 32
+compute_qkv_shadow, 40.163 ms, 2.62762 % 
+0 4 36
+compute_qkv_shadow, 48.9131 ms, 3.71758 % 
+1 4 36
+compute_qkv_shadow, 51.3914 ms, 3.46659 % 
+2 4 36
+compute_qkv_shadow, 79.7054 ms, 3.37894 % 
+3 4 36
+compute_qkv_shadow, 39.7536 ms, 2.34597 % 
+0 4 40
+compute_qkv_shadow, 52.4865 ms, 3.92523 % 
+1 4 40
+compute_qkv_shadow, 54.4847 ms, 3.65033 % 
+2 4 40
+compute_qkv_shadow, 81.3439 ms, 3.44047 % 
+3 4 40
+compute_qkv_shadow, 39.8695 ms, 2.33427 % 
+0 4 48
+compute_qkv_shadow, 61.6677 ms, 4.2466 % 
+1 4 48
+compute_qkv_shadow, 62.2822 ms, 3.92407 % 
+2 4 48
+compute_qkv_shadow, 84.104 ms, 3.46126 % 
+3 4 48
+compute_qkv_shadow, 39.4457 ms, 2.29104 % 
+0 4 56
+compute_qkv_shadow, 66.5367 ms, 4.48206 % 
+1 4 56
+compute_qkv_shadow, 67.2866 ms, 4.08495 % 
+2 4 56
+compute_qkv_shadow, 89.7928 ms, 3.55432 % 
+3 4 56
+compute_qkv_shadow, 43.8562 ms, 2.36607 % 
+0 4 64
+compute_qkv_shadow, 73.9045 ms, 4.54046 % 
+1 4 64
+compute_qkv_shadow, 73.6333 ms, 4.05167 % 
+2 4 64
+compute_qkv_shadow, 92.7272 ms, 3.36027 % 
+3 4 64
+compute_qkv_shadow, 41.9126 ms, 2.22756 % 
+0 4 72
+compute_qkv_shadow, 78.7325 ms, 4.29439 % 
+1 4 72
+compute_qkv_shadow, 80.0792 ms, 3.79592 % 
+2 4 72
+compute_qkv_shadow, 95.9324 ms, 3.1136 % 
+3 4 72
+compute_qkv_shadow, 39.8619 ms, 1.8474 % 
+0 4 80
+compute_qkv_shadow, 85.4589 ms, 4.49986 % 
+1 4 80
+compute_qkv_shadow, 85.0474 ms, 3.96498 % 
+2 4 80
+compute_qkv_shadow, 96.697 ms, 3.16247 % 
+3 4 80
+compute_qkv_shadow, 42.0855 ms, 1.90022 % 
+0 4 88
+compute_qkv_shadow, 90.7612 ms, 4.6476 % 
+1 4 88
+compute_qkv_shadow, 91.0935 ms, 4.14538 % 
+2 4 88
+compute_qkv_shadow, 99.8841 ms, 3.17181 % 
+3 4 88
+compute_qkv_shadow, 42.1924 ms, 1.85572 % 
+0 4 96
+compute_qkv_shadow, 97.2402 ms, 4.86716 % 
+1 4 96
+compute_qkv_shadow, 96.8659 ms, 4.1944 % 
+2 4 96
+compute_qkv_shadow, 102.479 ms, 3.21472 % 
+3 4 96
+compute_qkv_shadow, 39.8579 ms, 1.79584 % 
+0 4 128
+compute_qkv_shadow, 120.71 ms, 4.95073 % 
+1 4 128
+compute_qkv_shadow, 120.273 ms, 4.26883 % 
+2 4 128
+compute_qkv_shadow, 113.283 ms, 2.96961 % 
+3 4 128
+compute_qkv_shadow, 39.1254 ms, 1.52076 % 
+0 8 1
+compute_qkv_shadow, 37.2466 ms, 4.15538 % 
+1 8 1
+compute_qkv_shadow, 34.2021 ms, 3.77572 % 
+2 8 1
+compute_qkv_shadow, 67.243 ms, 4.13332 % 
+3 8 1
+compute_qkv_shadow, 42.4389 ms, 3.27709 % 
+0 8 2
+compute_qkv_shadow, 37.2608 ms, 4.02035 % 
+1 8 2
+compute_qkv_shadow, 32.1115 ms, 3.69124 % 
+2 8 2
+compute_qkv_shadow, 69.7079 ms, 4.25489 % 
+3 8 2
+compute_qkv_shadow, 40.9906 ms, 3.20422 % 
+0 8 4
+compute_qkv_shadow, 37.4501 ms, 4.10197 % 
+1 8 4
+compute_qkv_shadow, 32.0367 ms, 3.64728 % 
+2 8 4
+compute_qkv_shadow, 66.8994 ms, 4.23907 % 
+3 8 4
+compute_qkv_shadow, 38.6192 ms, 3.09816 % 
+0 8 6
+compute_qkv_shadow, 35.1513 ms, 3.676 % 
+1 8 6
+compute_qkv_shadow, 34.9251 ms, 3.56845 % 
+2 8 6
+compute_qkv_shadow, 71.5806 ms, 4.05617 % 
+3 8 6
+compute_qkv_shadow, 40.5233 ms, 2.9991 % 
+0 8 8
+compute_qkv_shadow, 36.1637 ms, 3.55618 % 
+1 8 8
+compute_qkv_shadow, 36.7896 ms, 3.49361 % 
+2 8 8
+compute_qkv_shadow, 72.2418 ms, 4.03842 % 
+3 8 8
+compute_qkv_shadow, 41.8703 ms, 3.10927 % 
+0 8 10
+compute_qkv_shadow, 37.1508 ms, 3.52101 % 
+1 8 10
+compute_qkv_shadow, 38.6343 ms, 3.40263 % 
+2 8 10
+compute_qkv_shadow, 75.0993 ms, 3.91699 % 
+3 8 10
+compute_qkv_shadow, 39.2695 ms, 2.81172 % 
+0 8 12
+compute_qkv_shadow, 39.1243 ms, 3.64844 % 
+1 8 12
+compute_qkv_shadow, 39.2486 ms, 3.56159 % 
+2 8 12
+compute_qkv_shadow, 75.2858 ms, 3.93118 % 
+3 8 12
+compute_qkv_shadow, 39.8479 ms, 2.82227 % 
+0 8 16
+compute_qkv_shadow, 44.7874 ms, 3.78558 % 
+1 8 16
+compute_qkv_shadow, 47.3971 ms, 3.75244 % 
+2 8 16
+compute_qkv_shadow, 78.5743 ms, 3.74489 % 
+3 8 16
+compute_qkv_shadow, 40.3273 ms, 2.63103 % 
+0 8 20
+compute_qkv_shadow, 52.3983 ms, 3.90231 % 
+1 8 20
+compute_qkv_shadow, 54.3424 ms, 3.61965 % 
+2 8 20
+compute_qkv_shadow, 81.6318 ms, 3.36117 % 
+3 8 20
+compute_qkv_shadow, 38.9539 ms, 2.30239 % 
+0 8 24
+compute_qkv_shadow, 60.3375 ms, 4.23153 % 
+1 8 24
+compute_qkv_shadow, 61.8932 ms, 3.85018 % 
+2 8 24
+compute_qkv_shadow, 82.99 ms, 3.46751 % 
+3 8 24
+compute_qkv_shadow, 40.6178 ms, 2.32051 % 
+0 8 28
+compute_qkv_shadow, 65.5938 ms, 4.4756 % 
+1 8 28
+compute_qkv_shadow, 67.3254 ms, 4.09582 % 
+2 8 28
+compute_qkv_shadow, 87.1779 ms, 3.51734 % 
+3 8 28
+compute_qkv_shadow, 39.9545 ms, 2.24684 % 
+0 8 32
+compute_qkv_shadow, 72.0041 ms, 4.48448 % 
+1 8 32
+compute_qkv_shadow, 73.5842 ms, 4.04778 % 
+2 8 32
+compute_qkv_shadow, 89.9139 ms, 3.3294 % 
+3 8 32
+compute_qkv_shadow, 40.653 ms, 2.15581 % 
+0 8 36
+compute_qkv_shadow, 78.5851 ms, 4.31239 % 
+1 8 36
+compute_qkv_shadow, 78.6356 ms, 3.82685 % 
+2 8 36
+compute_qkv_shadow, 95.6644 ms, 3.15491 % 
+3 8 36
+compute_qkv_shadow, 41.0654 ms, 1.85942 % 
+0 8 40
+compute_qkv_shadow, 85.3208 ms, 4.57773 % 
+1 8 40
+compute_qkv_shadow, 84.6883 ms, 3.9728 % 
+2 8 40
+compute_qkv_shadow, 96.3365 ms, 3.14593 % 
+3 8 40
+compute_qkv_shadow, 40.5753 ms, 1.86009 % 
+0 8 48
+compute_qkv_shadow, 97.1649 ms, 4.91595 % 
+1 8 48
+compute_qkv_shadow, 98.2932 ms, 4.25583 % 
+2 8 48
+compute_qkv_shadow, 114.411 ms, 3.34597 % 
+3 8 48
+compute_qkv_shadow, 40.1601 ms, 1.82246 % 
+0 8 56
+compute_qkv_shadow, 109.966 ms, 4.75869 % 
+1 8 56
+compute_qkv_shadow, 108.693 ms, 4.07034 % 
+2 8 56
+compute_qkv_shadow, 107.771 ms, 3.00396 % 
+3 8 56
+compute_qkv_shadow, 37.9191 ms, 1.53603 % 
+0 8 64
+compute_qkv_shadow, 124.354 ms, 4.95749 % 
+1 8 64
+compute_qkv_shadow, 119.844 ms, 4.31259 % 
+2 8 64
+compute_qkv_shadow, 114.941 ms, 2.98663 % 
+3 8 64
+compute_qkv_shadow, 39.8005 ms, 1.54809 % 
+0 8 72
+compute_qkv_shadow, 132.483 ms, 4.86088 % 
+1 8 72
+compute_qkv_shadow, 132.73 ms, 4.02758 % 
+2 8 72
+compute_qkv_shadow, 121.48 ms, 2.83694 % 
+3 8 72
+compute_qkv_shadow, 38.6363 ms, 1.33329 % 
+0 8 80
+compute_qkv_shadow, 144.979 ms, 4.95836 % 
+1 8 80
+compute_qkv_shadow, 143.806 ms, 4.18128 % 
+2 8 80
+compute_qkv_shadow, 123.601 ms, 2.75975 % 
+3 8 80
+compute_qkv_shadow, 39.9096 ms, 1.3055 % 
+0 8 88
+compute_qkv_shadow, 155.144 ms, 4.99937 % 
+1 8 88
+compute_qkv_shadow, 156.05 ms, 4.26997 % 
+2 8 88
+compute_qkv_shadow, 132.243 ms, 2.80265 % 
+3 8 88
+compute_qkv_shadow, 41.2828 ms, 1.2674 % 
+0 8 96
+compute_qkv_shadow, 167.102 ms, 5.16718 % 
+1 8 96
+compute_qkv_shadow, 167.576 ms, 4.311 % 
+2 8 96
+compute_qkv_shadow, 136.181 ms, 2.78235 % 
+3 8 96
+compute_qkv_shadow, 39.8758 ms, 1.19963 % 
+0 8 128
+compute_qkv_shadow, 214.497 ms, 5.18795 % 
+1 8 128
+compute_qkv_shadow, 213.807 ms, 4.35557 % 
+2 8 128
+compute_qkv_shadow, 160.098 ms, 2.59101 % 
+3 8 128
+compute_qkv_shadow, 41.4649 ms, 1.00056 % 
+0 16 1
+compute_qkv_shadow, 36.3989 ms, 3.87762 % 
+1 16 1
+compute_qkv_shadow, 32.4014 ms, 3.57888 % 
+2 16 1
+compute_qkv_shadow, 68.0113 ms, 4.16527 % 
+3 16 1
+compute_qkv_shadow, 41.6516 ms, 3.0977 % 
+0 16 2
+compute_qkv_shadow, 37.4037 ms, 4.08859 % 
+1 16 2
+compute_qkv_shadow, 31.734 ms, 3.66458 % 
+2 16 2
+compute_qkv_shadow, 67.0053 ms, 4.26983 % 
+3 16 2
+compute_qkv_shadow, 37.8795 ms, 3.0212 % 
+0 16 4
+compute_qkv_shadow, 34.9688 ms, 3.54794 % 
+1 16 4
+compute_qkv_shadow, 36.0021 ms, 3.51507 % 
+2 16 4
+compute_qkv_shadow, 74.0595 ms, 3.93237 % 
+3 16 4
+compute_qkv_shadow, 40.9792 ms, 2.85313 % 
+0 16 6
+compute_qkv_shadow, 39.0092 ms, 3.66497 % 
+1 16 6
+compute_qkv_shadow, 41.1392 ms, 3.61107 % 
+2 16 6
+compute_qkv_shadow, 76.661 ms, 4.01162 % 
+3 16 6
+compute_qkv_shadow, 39.8896 ms, 2.85271 % 
+0 16 8
+compute_qkv_shadow, 44.7032 ms, 3.80857 % 
+1 16 8
+compute_qkv_shadow, 48.8842 ms, 3.75189 % 
+2 16 8
+compute_qkv_shadow, 83.7637 ms, 3.87376 % 
+3 16 8
+compute_qkv_shadow, 39.5153 ms, 2.64264 % 
+0 16 10
+compute_qkv_shadow, 55.1372 ms, 3.98864 % 
+1 16 10
+compute_qkv_shadow, 54.5724 ms, 3.69979 % 
+2 16 10
+compute_qkv_shadow, 80.3734 ms, 3.4398 % 
+3 16 10
+compute_qkv_shadow, 41.0769 ms, 2.39332 % 
+0 16 12
+compute_qkv_shadow, 61.3026 ms, 4.31107 % 
+1 16 12
+compute_qkv_shadow, 60.638 ms, 3.91907 % 
+2 16 12
+compute_qkv_shadow, 85.5663 ms, 3.58542 % 
+3 16 12
+compute_qkv_shadow, 40.2957 ms, 2.27251 % 
+0 16 16
+compute_qkv_shadow, 72.5654 ms, 4.56602 % 
+1 16 16
+compute_qkv_shadow, 72.4369 ms, 4.06883 % 
+2 16 16
+compute_qkv_shadow, 88.5899 ms, 3.3415 % 
+3 16 16
+compute_qkv_shadow, 39.8598 ms, 2.14386 % 
+0 16 20
+compute_qkv_shadow, 84.929 ms, 4.4813 % 
+1 16 20
+compute_qkv_shadow, 85.3287 ms, 3.93791 % 
+2 16 20
+compute_qkv_shadow, 95.6605 ms, 3.12924 % 
+3 16 20
+compute_qkv_shadow, 41.4897 ms, 1.87203 % 
+0 16 24
+compute_qkv_shadow, 96.4425 ms, 4.85401 % 
+1 16 24
+compute_qkv_shadow, 97.2936 ms, 4.22943 % 
+2 16 24
+compute_qkv_shadow, 106.162 ms, 3.28851 % 
+3 16 24
+compute_qkv_shadow, 40.544 ms, 1.80207 % 
+0 16 28
+compute_qkv_shadow, 108.431 ms, 4.71672 % 
+1 16 28
+compute_qkv_shadow, 109.189 ms, 4.08068 % 
+2 16 28
+compute_qkv_shadow, 108.458 ms, 2.95609 % 
+3 16 28
+compute_qkv_shadow, 39.6183 ms, 1.58227 % 
+0 16 32
+compute_qkv_shadow, 120.434 ms, 4.96668 % 
+1 16 32
+compute_qkv_shadow, 120.18 ms, 4.32119 % 
+2 16 32
+compute_qkv_shadow, 113.657 ms, 2.96076 % 
+3 16 32
+compute_qkv_shadow, 38.3203 ms, 1.50917 % 
+0 16 36
+compute_qkv_shadow, 132.786 ms, 4.88921 % 
+1 16 36
+compute_qkv_shadow, 132.827 ms, 4.05757 % 
+2 16 36
+compute_qkv_shadow, 120.028 ms, 2.83282 % 
+3 16 36
+compute_qkv_shadow, 38.5473 ms, 1.33758 % 
+0 16 40
+compute_qkv_shadow, 145.823 ms, 5.01052 % 
+1 16 40
+compute_qkv_shadow, 143.448 ms, 4.18743 % 
+2 16 40
+compute_qkv_shadow, 125.496 ms, 2.84786 % 
+3 16 40
+compute_qkv_shadow, 40.4711 ms, 1.3252 % 
+0 16 48
+compute_qkv_shadow, 168.604 ms, 5.22581 % 
+1 16 48
+compute_qkv_shadow, 167.256 ms, 4.3457 % 
+2 16 48
+compute_qkv_shadow, 136.506 ms, 2.84585 % 
+3 16 48
+compute_qkv_shadow, 39.054 ms, 1.19422 % 
+0 16 56
+compute_qkv_shadow, 189.947 ms, 5.29592 % 
+1 16 56
+compute_qkv_shadow, 190.62 ms, 4.36251 % 
+2 16 56
+compute_qkv_shadow, 149.673 ms, 2.75617 % 
+3 16 56
+compute_qkv_shadow, 42.1652 ms, 1.16939 % 
+0 16 64
+compute_qkv_shadow, 215.491 ms, 5.24965 % 
+1 16 64
+compute_qkv_shadow, 214.121 ms, 4.42725 % 
+2 16 64
+compute_qkv_shadow, 160.116 ms, 2.6492 % 
+3 16 64
+compute_qkv_shadow, 41.1202 ms, 1.00173 % 
+0 16 72
+compute_qkv_shadow, 238.59 ms, 5.34898 % 
+1 16 72
+compute_qkv_shadow, 237.164 ms, 4.36368 % 
+2 16 72
+compute_qkv_shadow, 175.691 ms, 2.67325 % 
+3 16 72
+compute_qkv_shadow, 39.5467 ms, 0.906654 % 
+0 16 80
+compute_qkv_shadow, 260.041 ms, 4.88575 % 
+1 16 80
+compute_qkv_shadow, 258.987 ms, 4.03082 % 
+2 16 80
+compute_qkv_shadow, 179.944 ms, 2.24973 % 
+3 16 80
+compute_qkv_shadow, 39.2512 ms, 0.753513 % 
+0 16 88
+compute_qkv_shadow, 282.291 ms, 5.00556 % 
+1 16 88
+compute_qkv_shadow, 282.906 ms, 4.112 % 
+2 16 88
+compute_qkv_shadow, 193.49 ms, 2.28926 % 
+3 16 88
+compute_qkv_shadow, 37.5568 ms, 0.68635 % 
+0 16 96
+compute_qkv_shadow, 306.586 ms, 5.08736 % 
+1 16 96
+compute_qkv_shadow, 305.485 ms, 4.19643 % 
+2 16 96
+compute_qkv_shadow, 205.709 ms, 2.30681 % 
+3 16 96
+compute_qkv_shadow, 38.1791 ms, 0.655572 % 
+0 16 128
+compute_qkv_shadow, 402.684 ms, 5.32433 % 
+1 16 128
+compute_qkv_shadow, 397.619 ms, 4.4275 % 
+2 16 128
+compute_qkv_shadow, 257.058 ms, 2.33622 % 
+3 16 128
+compute_qkv_shadow, 40.3017 ms, 0.564299 % 
+0 32 1
+compute_qkv_shadow, 37.4229 ms, 4.17815 % 
+1 32 1
+compute_qkv_shadow, 32.9713 ms, 3.49501 % 
+2 32 1
+compute_qkv_shadow, 70.4428 ms, 4.17191 % 
+3 32 1
+compute_qkv_shadow, 39.3282 ms, 3.1556 % 
+0 32 2
+compute_qkv_shadow, 36.7273 ms, 3.59704 % 
+1 32 2
+compute_qkv_shadow, 36.1451 ms, 3.51894 % 
+2 32 2
+compute_qkv_shadow, 71.3798 ms, 4.04989 % 
+3 32 2
+compute_qkv_shadow, 38.5381 ms, 2.9673 % 
+0 32 4
+compute_qkv_shadow, 45.9875 ms, 3.81019 % 
+1 32 4
+compute_qkv_shadow, 46.3693 ms, 3.72353 % 
+2 32 4
+compute_qkv_shadow, 78.2552 ms, 3.74118 % 
+3 32 4
+compute_qkv_shadow, 42.8177 ms, 2.70634 % 
+0 32 6
+compute_qkv_shadow, 59.7484 ms, 4.31369 % 
+1 32 6
+compute_qkv_shadow, 61.3567 ms, 3.90943 % 
+2 32 6
+compute_qkv_shadow, 86.5527 ms, 3.51751 % 
+3 32 6
+compute_qkv_shadow, 40.6608 ms, 2.34178 % 
+0 32 8
+compute_qkv_shadow, 72.8029 ms, 4.5738 % 
+1 32 8
+compute_qkv_shadow, 73.8413 ms, 4.08155 % 
+2 32 8
+compute_qkv_shadow, 89.0425 ms, 3.3696 % 
+3 32 8
+compute_qkv_shadow, 41.5283 ms, 2.21148 % 
+0 32 10
+compute_qkv_shadow, 85.3684 ms, 4.59201 % 
+1 32 10
+compute_qkv_shadow, 86.2126 ms, 3.99572 % 
+2 32 10
+compute_qkv_shadow, 95.3457 ms, 3.14741 % 
+3 32 10
+compute_qkv_shadow, 40.5548 ms, 1.85494 % 
+0 32 12
+compute_qkv_shadow, 97.5346 ms, 4.90396 % 
+1 32 12
+compute_qkv_shadow, 97.0989 ms, 4.24562 % 
+2 32 12
+compute_qkv_shadow, 102.263 ms, 3.25354 % 
+3 32 12
+compute_qkv_shadow, 38.6594 ms, 1.7487 % 
+0 32 16
+compute_qkv_shadow, 120.899 ms, 5.00429 % 
+1 32 16
+compute_qkv_shadow, 120.157 ms, 4.33377 % 
+2 32 16
+compute_qkv_shadow, 112.771 ms, 2.98601 % 
+3 32 16
+compute_qkv_shadow, 38.2027 ms, 1.50129 % 
+0 32 20
+compute_qkv_shadow, 143.451 ms, 4.95669 % 
+1 32 20
+compute_qkv_shadow, 144.63 ms, 4.15795 % 
+2 32 20
+compute_qkv_shadow, 123.53 ms, 2.76961 % 
+3 32 20
+compute_qkv_shadow, 39.5754 ms, 1.29975 % 
+0 32 24
+compute_qkv_shadow, 167.978 ms, 5.18492 % 
+1 32 24
+compute_qkv_shadow, 167.754 ms, 4.31943 % 
+2 32 24
+compute_qkv_shadow, 133.189 ms, 2.78239 % 
+3 32 24
+compute_qkv_shadow, 37.6952 ms, 1.14648 % 
+0 32 28
+compute_qkv_shadow, 189.41 ms, 5.24877 % 
+1 32 28
+compute_qkv_shadow, 190.642 ms, 4.32735 % 
+2 32 28
+compute_qkv_shadow, 145.715 ms, 2.69112 % 
+3 32 28
+compute_qkv_shadow, 37.2306 ms, 1.04461 % 
+0 32 32
+compute_qkv_shadow, 214.406 ms, 5.23008 % 
+1 32 32
+compute_qkv_shadow, 213.492 ms, 4.42686 % 
+2 32 32
+compute_qkv_shadow, 161.68 ms, 2.66515 % 
+3 32 32
+compute_qkv_shadow, 39.2115 ms, 0.971296 % 
+0 32 36
+compute_qkv_shadow, 238.687 ms, 5.40832 % 
+1 32 36
+compute_qkv_shadow, 236.62 ms, 4.38431 % 
+2 32 36
+compute_qkv_shadow, 173.884 ms, 2.69807 % 
+3 32 36
+compute_qkv_shadow, 38.7335 ms, 0.908224 % 
+0 32 40
+compute_qkv_shadow, 260.098 ms, 4.93917 % 
+1 32 40
+compute_qkv_shadow, 259.28 ms, 4.04771 % 
+2 32 40
+compute_qkv_shadow, 180.457 ms, 2.2841 % 
+3 32 40
+compute_qkv_shadow, 37.9118 ms, 0.741022 % 
+0 32 48
+compute_qkv_shadow, 305.52 ms, 5.20034 % 
+1 32 48
+compute_qkv_shadow, 305.959 ms, 4.24269 % 
+2 32 48
+compute_qkv_shadow, 208.424 ms, 2.36854 % 
+3 32 48
+compute_qkv_shadow, 41.5116 ms, 0.71735 % 
+0 32 56
+compute_qkv_shadow, 353.987 ms, 5.30599 % 
+1 32 56
+compute_qkv_shadow, 352.772 ms, 4.30452 % 
+2 32 56
+compute_qkv_shadow, 234.818 ms, 2.38483 % 
+3 32 56
+compute_qkv_shadow, 40.1299 ms, 0.630128 % 
+0 32 64
+compute_qkv_shadow, 402.663 ms, 5.42345 % 
+1 32 64
+compute_qkv_shadow, 398.029 ms, 4.4937 % 
+2 32 64
+compute_qkv_shadow, 258.056 ms, 2.40544 % 
+3 32 64
+compute_qkv_shadow, 39.0777 ms, 0.55569 % 
+0 32 72
+compute_qkv_shadow, 450.393 ms, 5.51648 % 
+1 32 72
+compute_qkv_shadow, 444.505 ms, 4.40109 % 
+2 32 72
+compute_qkv_shadow, 284.055 ms, 2.41644 % 
+3 32 72
+compute_qkv_shadow, 39.1334 ms, 0.50535 % 
+0 32 80
+compute_qkv_shadow, 496.849 ms, 5.29765 % 
+1 32 80
+compute_qkv_shadow, 489.759 ms, 4.26573 % 
+2 32 80
+compute_qkv_shadow, 307.899 ms, 2.2295 % 
+3 32 80
+compute_qkv_shadow, 40.8108 ms, 0.460824 % 
+0 32 88
+compute_qkv_shadow, 545.584 ms, 5.34311 % 
+1 32 88
+compute_qkv_shadow, 537.257 ms, 4.33721 % 
+2 32 88
+compute_qkv_shadow, 332.996 ms, 2.23842 % 
+3 32 88
+compute_qkv_shadow, 39.0053 ms, 0.406011 % 
+0 32 96
+compute_qkv_shadow, 592.699 ms, 5.40633 % 
+1 32 96
+compute_qkv_shadow, 585.356 ms, 4.40044 % 
+2 32 96
+compute_qkv_shadow, 357.919 ms, 2.2505 % 
+3 32 96
+compute_qkv_shadow, 38.5786 ms, 0.370599 % 
+0 32 128
+compute_qkv_shadow, 785.168 ms, 5.44524 % 
+1 32 128
+compute_qkv_shadow, 774.763 ms, 4.46475 % 
+2 32 128
+compute_qkv_shadow, 460.5 ms, 2.21878 % 
+3 32 128
+compute_qkv_shadow, 38.3856 ms, 0.285951 % 
